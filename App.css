@@ -1,0 +1,52 @@
+.box{
+    height: 100vh;
+    width: 100%;
+    background-color: palevioletred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box2{
+    height: 700px;
+    width: 400px;
+    background-color: aliceblue;
+  
+}
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.birth1{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+.birth1 img{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+
+}
+.name{
+    margin: 10px;
+    padding: 10px;
+    
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    background-color: palevioletred;
+    height: 40px;
+    width: 300px;
+    color: white;
+    font-size: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
